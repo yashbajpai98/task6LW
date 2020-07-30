@@ -1,5 +1,10 @@
 
 <h1>Deploying web-server using Jenkins-Groovy-code and Kubernetes</h1>
+Jenkins is an open-source automation tool used to build and test your software projects continuously making it easier for developers to integrate changes to the project, and making it easier for users to obtain a fresh build.
+
+But there is one task of making a job/pipeline which we do manually till now in all my tasks. So somehow we say that this thing is not automated.
+
+But Jenkins provides one way to make the job by writing code in Groovy language. For this, Jenkins has one plugin named Job_DSL. You need to install this only.
 <h2>Objective :-</h2>
 <h3>Jenkins Job DSL Automation.</h3>
 
