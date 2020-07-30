@@ -88,11 +88,17 @@ But Jenkins provides one way to make the job by writing code in Groovy language.
  Job3: Send status to the team as per the result of the build and deployment status.
  
  <b> DSL script of seed job :-<b>
+    Now, this is the code for running Jenkins on top of Kubernetes using the YAML file.
+    
+  ![qw](https://raw.githubusercontent.com/yashbajpai98/task6LW/master/task6-images/1.PNG)
   
   ![2](https://github.com/gauravsjc02/DevOps-Task6/blob/master/Task6/processjob.png)
   
   
   ![3](https://github.com/gauravsjc02/DevOps-Task6/blob/master/Task6/seed.png)
+  
+  The YAML code is launching for the website is below...
+  ![qa](https://raw.githubusercontent.com/yashbajpai98/task6LW/master/task6-images/2.PNG)
   
   
   <h3>Build Pipeline View :-</h3>
